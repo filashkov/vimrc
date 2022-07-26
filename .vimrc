@@ -51,6 +51,8 @@ set number
 set expandtab
 set tabstop=4
 set shiftwidth=4
+" Next line for Windows
+" set backspace=indent,eol,start
 
 " Source a global configuration file if available
 if filereadable("/etc/vim/vimrc.local")
